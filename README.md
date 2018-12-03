@@ -1,5 +1,22 @@
 ## Lending Club – Group 13
 
+# Mission Statement
+
+# Exploratory Data Analysis
+## Repayment Analysis – Regression
+## Default Probability Analysis – Random Forest
+
+
+# Discrimination/Equity Analysis
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/ms-choi/lendingclub13/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
