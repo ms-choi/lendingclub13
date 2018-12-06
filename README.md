@@ -1,7 +1,17 @@
 ## Lending Club – Group 13
 
-# Mission Statement
+# Motivation
+- Introduce the project motivation both as a whole as well as motivations
+for important defining aspects of your work. For example were there any visualization
+or UI primitives that informed your work?
 
+# Description of Data and EDA
+- What data are you dealing with? What methods have you used to explore the data (incl. initial explorations, models, data cleansing and reconciliation, etc)? What insights did you gain? How did those methods influence your work?
+
+# Literature Review/Related Work
+- This can include noting any key papers, texts,
+other software sources, talks or websites that you have used to develop your modeling
+approach and/or that informed your demo/site.
 # Exploratory Data Analysis
 ## Repayment Analysis – Regression
 ## Default Probability Analysis – Random Forest
@@ -17,6 +27,7 @@
 
 
 
+# General GitHub Guidelines
 
 You can use the [editor on GitHub](https://github.com/ms-choi/lendingclub13/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
