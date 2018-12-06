@@ -12,9 +12,40 @@ or UI primitives that informed your work?
 - This can include noting any key papers, texts,
 other software sources, talks or websites that you have used to develop your modeling
 approach and/or that informed your demo/site.
-# Exploratory Data Analysis
+
+
+# Modeling Approach: 
+- What was your baseline model for comparison? What further
+models did you implement? Description of your implementations beyond the baseline
+model. Briefly summarize any changes in your project goals or implementation plans
+you have made along the way. These changes are a natural part of any project, even
+those that seem the most straightforward at the beginning. The story you tell about
+how you arrived at your results can powerfully illustrate your process.
+
 ## Repayment Analysis – Regression
 ## Default Probability Analysis – Random Forest
+
+# Results
+- Describe the results and emphasize the most important results. Did you have
+to reconsider some of the original assumptions?
+
+# Conclusions and Summary
+- Review what was discussed in the Overview and
+Motivation sections (don’t repeat them word-for-word!). Discuss your contributions
+including the successes and areas for improvement.
+
+# Future work
+- Discuss extensions to and new directions for your work. What do you
+think would be interesting to pursue next? Are there any ideas worth exploring that
+you didn’t get a chance to explore?
+
+# Style (this is just a reference written in the Guidelines)
+- Your work should embrace simplicity over complexity, be intuitive for an only
+slightly informed user to navigate, and as much as possible be appropriately polished,
+robust, and reliable. Visualizations should be constructed to slice through complexity
+and convey information and insight elegantly and concisely. We recognize that these
+are not going to be fully constructed products, but style still matters.
+
 
 
 # Discrimination/Equity Analysis
