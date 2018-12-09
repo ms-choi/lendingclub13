@@ -5,15 +5,22 @@
 for important defining aspects of your work. For example were there any visualization
 or UI primitives that informed your work?
 
+The objective is to help Lending Club investors in deciding which loans to make investments in, such that (1) the expected rate of return is maximized for the investors and (2) that the portfolio recommendation for the investor is not racially discriminatory. We have sought to achieve the objectives laid out above by examining a wide range of loan characteristics (such as loan amount, interest rate, repayment schedule, and grade), as well as the individual characteristics (such as employment, annual income, and credit history).
+
 # Description of Data and EDA
 - What data are you dealing with? What methods have you used to explore the data (incl. initial explorations, models, data cleansing and reconciliation, etc)? What insights did you gain? How did those methods influence your work?
+
+
 
 # Literature Review/Related Work
 - This can include noting any key papers, texts,
 other software sources, talks or websites that you have used to develop your modeling
 approach and/or that informed your demo/site.
 
+A number of literature on mortgage and lending practices were helpful in calibrating the trajectory of our work. The work on  by Padhi (2017) 
 
+
+Padhi, Michael. "The Effects of Peer-to-Peer (P2P) Lending on Competition, Discrimination, and Financial Stability". Working Paper.
 # Modeling Approach: 
 - What was your baseline model for comparison? What further
 models did you implement? Description of your implementations beyond the baseline
