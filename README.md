@@ -6,10 +6,12 @@ for important defining aspects of your work. For example were there any visualiz
 or UI primitives that informed your work?
 
 The objective is to help Lending Club investors in deciding which loans to make investments in, such that (1) the expected rate of return is maximized for the investors and (2) that the portfolio recommendation for the investor is not racially discriminatory. We have sought to achieve the objectives laid out above by examining a wide range of loan characteristics (such as loan amount, interest rate, repayment schedule, and grade), as well as the individual characteristics (such as employment, annual income, and credit history).
+W
 
 # Description of Data and EDA
 - What data are you dealing with? What methods have you used to explore the data (incl. initial explorations, models, data cleansing and reconciliation, etc)? What insights did you gain? How did those methods influence your work?
 
+We have the month
 
 
 # Literature Review/Related Work
@@ -17,10 +19,13 @@ The objective is to help Lending Club investors in deciding which loans to make 
 other software sources, talks or websites that you have used to develop your modeling
 approach and/or that informed your demo/site.
 
-A number of literature on mortgage and lending practices were helpful in calibrating the trajectory of our work. The work on  by Padhi (2017) 
+A number of literature on mortgage and lending practices were helpful in calibrating the trajectory of our work. The research work done by Padhi (2017) helped us formulate the relevant questions with respect to loan applications and racial discrimination (for example, is there a substantially higher proportion of loan rejection in the neighborhoods with higher black and hispanic resident population? Do black and hispanic residents have inherently lower credit ratings, or are lending practices guided by racially motivated schemes?"). Another literature that helped us raised relevant questions is the work of Scheurmann and Matthews (2005) on building a Neural Network to manage arrears. The literature raises the question of the effect of varying level of train-to-test dataset proportions on the accuracy performance; specifically, the literature suggests that it is helpful to include higher proportion of samples in the training set (say, 67% to 33%) to enlarge the number of samples of defaulted borrowers (since the proportion of defaulted borrowers is generally smaller). 
 
+**References**
+Padhi, Michael. "The Effects of Peer-to-Peer (P2P) Lending on Competition, Discrimination, and Financial Stability". 2017. Working Paper, Robert H. Smith School of Business.
 
-Padhi, Michael. "The Effects of Peer-to-Peer (P2P) Lending on Competition, Discrimination, and Financial Stability". Working Paper.
+Scheurmann, Esther, and Chris Matthews. "Neural network classifers in arrears management." International Conference on Artificial Neural Networks. Springer, Berlin, Heidelberg, 2005.
+
 # Modeling Approach: 
 - What was your baseline model for comparison? What further
 models did you implement? Description of your implementations beyond the baseline
