@@ -12,6 +12,13 @@ The objective is to help Lending Club investors in deciding which loans to make 
 
 We downloaded year-by-year datasets (quarter-by-quarter datasets for loans given out between 2016 and 2018) from the Lending Club website. 
 
+We first wanted to examine how the repayment rates are distributed. Specifically, we examined how the repayment rates are distributed by different grades (lettered from "A" to "G"). 
+
+**INSERT THE REPAYMENT RATE VARIABLE BOX PLOT – AND THE DESCRIPTION – ABOUT HERE**
+
+Looking at the correlation matrix, we also see that variables have a correlation ranging between -0.11 and 0.70. We point out that the log_annual_inc (log of annual income) is positively correlated with the loan_amnt ($\rho = 0.46$), and that open_acc variable is positively correlated with total_acc ($\rho = 0.70$). 
+
+
 
 # Literature Review/Related Work
 - This can include noting any key papers, texts,
