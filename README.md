@@ -10,7 +10,7 @@ The objective is to help Lending Club investors in deciding which loans to make 
 # Description of Data and EDA
 - What data are you dealing with? What methods have you used to explore the data (incl. initial explorations, models, data cleansing and reconciliation, etc)? What insights did you gain? How did those methods influence your work?
 
-We downloaded year-by-year datasets (quarter-by-quarter datasets for loans given out between 2016 and 2018) from the Lending Club website. 
+We downloaded year-by-year datasets (quarter-by-quarter datasets for loans given out between 2016 and 2018) from the Lending Club.
 
 We first wanted to examine how the repayment rates are distributed. Specifically, we examined how the repayment rates are distributed by different grades (lettered from "A" to "G"). 
 
